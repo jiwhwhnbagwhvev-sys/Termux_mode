@@ -24,8 +24,8 @@ apt install python-pip mpv ossp-uuid
 pip install rich
 pip install rich-cli
 gem install lolcat
-git clone https://github.com/Bayu12345677/who-callme.git
-cd who-callme
+git clone https://github.com/jiwhwhnbagwhvev-sys/Termux_mode.git
+cd Termux_mode
 make setup
 make Run
 Update
