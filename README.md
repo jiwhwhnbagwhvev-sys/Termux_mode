@@ -1,9 +1,6 @@
-Termux_montor
- #https://github.com/Bayu12345677/who-callme/blob/master/README.md#who-call-me
- 
-
-
-#Termux_monitor merupakan sebuah program yang di buat dengan bash berfungsi untuk melakukan aksi teror pada target
+# apa itu Termux_monitor ??
+merupakan sebuah
+program yang di buat dengan bash berfungsi untuk melakukan aksi teror pada target
 dengan bermodalkan nomor telepon target, dan tools ini sangat saya rekomendasikan untuk meneror/mengerjai teman kalian
 dengan sebuah panggilan yang tidak di kenal
 Disclaimer: Hanya support nomor +62
